@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  font-family: Arial;
+}
+
+.container{
+  width: 460px;
+  border:1px solid white;
+  height: 460px;
+  margin: auto;
+
+}
+
+.colorcg{
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+}
+
+#current{
+  background-color: #EEE;
+}
+#buttonid{
+  padding: 30px;
+  margin-top:10px;
+  text-align: center;
+  width: 100%
+
+
+}
